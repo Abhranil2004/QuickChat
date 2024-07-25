@@ -2,6 +2,9 @@
 
 QuickChat is a real-time chatting website that allows users to communicate seamlessly. Built with modern web technologies, QuickChat provides an intuitive interface for messaging.
 
+## Preview 📸
+
+![QuickChat Screenshot](https://github.com/Abhranil2004/QuickChat/blob/general/screencapture-localhost-3000-2024-07-26-03_42_52.png)
 
 ## Setup
 
